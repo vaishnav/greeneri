@@ -9,7 +9,7 @@ const UnderConstructionPage = () => {
         <img src={underConst} alt="Under Construction" className="image" />
       </div>
       <p className="message">
-        Our website is under construction, but we are ready to go! Special surprise for our subscribers only.
+        Our website is under construction, will be up and running soon.
       </p>
     </div>
   )
